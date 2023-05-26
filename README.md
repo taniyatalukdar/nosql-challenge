@@ -25,4 +25,4 @@ Used NoSQL_analysis_starter.ipynb for this section of the challenge.
 3. What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"? -  The top 5 establishments with a RatingValue of '5' sorted by lowest hygiene score nearest to "Penang Flavours" are: "Volunteer", "Plumstead Manor Nursery", "Atlantic Fish Bar", "Iceland", and "Howe and Co Fish and Chips - Van 17".
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas. - There are 55 rows in the DataFrame. This is the preview of the first 10 rows:
 
-![Pic1](https://github.com/taniyatalukdar/nosql-challenge/tree/main/Images)
+![alt text](https://github.com/taniyatalukdar/nosql-challenge/tree/main/Images.png?raw=true)
